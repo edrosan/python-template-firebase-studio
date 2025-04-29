@@ -1,8 +1,8 @@
 {
-  "name": "Simle HTML",
-  "description": "Create a new, simple web app with plain HTML, CSS and JS ( or TypeScript)",
+  "name": "Blank Workspace",
+  "description": "An empty workspace you can customize for any project",
   "categories": [
-    "Web app"
+    "Misc"
   ],
-  "icon": "https://www.gstatic.com/monospace/231115/logo_html.svg"
+  "icon": "https://www.gstatic.com/monospace/230530/icon-192.png"
 }
