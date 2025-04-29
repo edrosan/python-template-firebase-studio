@@ -1,8 +1,8 @@
 {
-  "name": "Blank Workspace",
-  "description": "An empty workspace you can customize for any project",
+  "name": "Python Workspace",
+  "description": "A workspace with Python and Docker",
   "categories": [
-    "Misc"
+    "Python"
   ],
   "icon": "https://www.gstatic.com/monospace/230530/icon-192.png"
 }
